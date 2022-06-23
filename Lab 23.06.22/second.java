@@ -1,4 +1,4 @@
-// Add two numbers
+// Addition of two numbers
 
 public class second{
 	public static void main(String[] args){
