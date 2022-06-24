@@ -4,7 +4,7 @@
 
 // multiply of two numbers
 
-public class forth{
+public class int_mul{
 	public static void main(String[] args){
 		int num1 = 46, num2 = 2;   // took two values
 		System.out.print("The multiply of two number is ");  // use to print output
