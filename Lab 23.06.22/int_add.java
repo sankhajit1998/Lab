@@ -4,7 +4,7 @@
 
 // Addition of two numbers
 
-public class second{
+public class int_add{
 	public static void main(String[] args){
 		int num1 = 46, num2 = 52;   // took two values
 		System.out.print("The addition of two number is ");   // use to print output
