@@ -4,7 +4,7 @@
 
 // To multiply two floating-point numbers
 
-public class first{
+public class float_mul{
 	public static void main(String[] args){   
 		float num1 = 75.25f, num2 = 5.2f;   // took two values
 		System.out.print("The value of two number is ");  // use to print output
