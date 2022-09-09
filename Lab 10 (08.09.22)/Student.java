@@ -16,8 +16,12 @@ public class Student {   // main class
 	public static void main(String[] args) {   // main method
 		Student s = new Student();
 		// called all method with parameter
-		s.calculateFeesStructure(1, 'A', 5000, true);
-		s.compareMarks(65, 78);
+		s.calculateFeesStructure(234, 'C', 600, true);
+		s.calculateFeesStructure(115, 'B', 909.50, true);
+		s.calculateFeesStructure(980, 'G', 1810, false);
+		s.compareMarks(85, 65);
+		s.compareMarks(56, 98);
+		s.compareMarks(84, 84);
 		s.validateFees((double) 500);
 	}
 	// method to calculate fees 
