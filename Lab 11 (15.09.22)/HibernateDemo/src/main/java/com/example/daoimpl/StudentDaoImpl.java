@@ -91,7 +91,7 @@ public class StudentDaoImpl implements StudentDAO {    // DAO implementation cla
 	}
 
 	@Override
-	public void fetchStudent() {        // method
+	public void fetchStudent() {        // method for fetch the data
 		// creating scanner class object
 		Scanner s1 = new Scanner(System.in);
 		int id;
